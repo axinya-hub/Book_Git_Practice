@@ -1,1 +1,3 @@
 Some cool things about java
+
+editor: java is cool
